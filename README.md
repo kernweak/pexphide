@@ -1,5 +1,3 @@
 # pexphide
-PoC for hiding PE exports
-PE导出表隐藏
+PoC for hiding PE exportsPE导出表隐藏  
 dumpbin /exports shows no exports inside pexphide.dll
-11111111111111111111111111111111111111111111111111111111111111111111111111111111111111
